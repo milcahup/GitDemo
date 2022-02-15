@@ -1,5 +1,6 @@
 public class Demo {
     public Demo() {
+        a = 1
     }
 
     @Override
