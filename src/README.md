@@ -1,4 +1,4 @@
-Hello, I'm UP! I'm here to test the Git repository on IntelliJ.\n
+Hello, I'm UP! I'm here to test the Git repository on IntelliJ.
 All you have to do is to follow the steps below.
 -----FOR EXISTING PROJECT ON GITHUB-----
 Copy the LINK -> Open a folder on IntelliJ -> VCS -> Enable Version Control Integration -> Git -> OK
